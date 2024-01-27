@@ -71,8 +71,6 @@ sys.exit()#Terminate the program after sending the corresponding data
 
 |Code|[WebServer.py](/WebServer.py)|
 |----|-----|
-|Documentation|[WebServer.pdf](/documentation/Web_Server.pdf)|
-
 
 ## Socket Programming Assignment 4: Proxy Server
 
