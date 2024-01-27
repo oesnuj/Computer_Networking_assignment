@@ -1,7 +1,9 @@
 # Computer_Networking_assignment
 ### 컴퓨터 네트워크 소켓프로그래밍 과제
 ### HTTP 웹 서버, Proxy 서버 제작
-## Socket Programming Assignment 1: Web Server
+### Socket Programming Assignment 
+
+## Lab 1: Web Server Lab
 
 In this lab, you will learn the basics of socket programming for TCP connections in Python: how to create a socket, bind it to a specific address and port, as well as send and receive a HTTP packet. 
 You will also learn some basics of HTTP header format.
@@ -72,7 +74,7 @@ sys.exit()#Terminate the program after sending the corresponding data
 |Code|[WebServer.py](/WebServer.py)|
 |----|-----|
 
-## Socket Programming Assignment 4: Proxy Server
+## Lab 4: HTTP Web Proxy Server
 
 In this lab, you will learn how web proxy servers work and one of their basic functionalities – caching. 
 
