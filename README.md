@@ -68,9 +68,9 @@ sys.exit()#Terminate the program after sending the corresponding data
 
 ### Answer
 
-|Code|[TCPServer.py](/TCPServer.py)|
+|Code|[WebServer.py](/WebServer.py)|
 |----|-----|
-|Documentation|[Web_Server.pdf](/documentation/Web_Server.pdf)|
+|Documentation|[WebServer.pdf](/documentation/Web_Server.pdf)|
 
 
 ## Socket Programming Assignment 4: Proxy Server
@@ -177,4 +177,5 @@ while 1:
 
 ### Answer
 
-|Code|[pinger.py](/pinger.py)|
+|Code|[ProxyServer.py](/ProxyServer.py)|
+|----|-----|
