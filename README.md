@@ -1,6 +1,7 @@
 # Computer_Networking_assignment
 ### 컴퓨터 네트워크 소켓프로그래밍 과제
-##### HTTP 웹 서버, Proxy 서버 제작
+- HTTP 웹 서버
+- Proxy 서버 제작
 
 
 ## Socket Programming Assignment 
